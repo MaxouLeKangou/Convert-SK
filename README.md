@@ -15,7 +15,7 @@ set {_convert} to convert(valeur)
 ## 🎓 **Vous avez besoin d'aide ?**
 
 - [Mon Discord](https://discord.gg/8SfwgQqQxh)
-- [Documentation](https://github.com/MaxouLeKangou/Pickaxe-SK/blob/main/documentation.md)
+- [Documentation](https://github.com/MaxouLeKangou/Convert-SK/blob/main/documentation.md)
 
 _Je remercie toutes les personnes qui téléchargerons et aiderons à améliorer ce code !_
 > Cette page a été repris de celle de [ZorgBtw](https://github.com/ZorgBtw/BungeeSK)
