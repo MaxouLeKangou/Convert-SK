@@ -7,7 +7,7 @@ Pour télécharger ce code, ils vous suffit de cliquer [ici](https://github.com/
 
 ## 👀 **Comment utiliser correctement Convert-SK ?**
 Vous devez utiliser cette ligne ci-dessous<br />
-Vous devez remplacer "valeur" par votre votre valeur :
+Vous devez remplacer "valeur" par votre valeur :
 ```
 set {_convert} to convert(valeur)
 ```
